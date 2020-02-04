@@ -1,2 +1,2 @@
 # AutoML
-Semi Auto Machine Learning
+Semi Auto Machine Learning using Streamlit
